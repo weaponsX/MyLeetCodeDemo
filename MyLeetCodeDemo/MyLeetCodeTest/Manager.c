@@ -18,6 +18,9 @@ void runExample(enum ExampleName name) {
         case RomanToIntegerExample:
             romanToIntegerExample();
             break;
+        case LongestCommonPrefixExample:
+            longestCommonPrefixExample();
+            break;
         default:
             break;
     }

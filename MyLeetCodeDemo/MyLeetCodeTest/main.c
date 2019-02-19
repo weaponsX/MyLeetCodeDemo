@@ -11,7 +11,7 @@
 
 int main(int argc, const char * argv[]) {
     
-    runExample(RomanToIntegerExample);
+    runExample(LongestCommonPrefixExample);
     
     return 0;
 }

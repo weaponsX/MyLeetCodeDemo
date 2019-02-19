@@ -14,7 +14,8 @@ int toNumber(char ch) {
     return 0;
 }
 
-int romanToInt(char* s) {int total=0;
+int romanToInt(char* s) {
+    int total=0;
     char *p=s;
     int i=0;
     int a=0;
