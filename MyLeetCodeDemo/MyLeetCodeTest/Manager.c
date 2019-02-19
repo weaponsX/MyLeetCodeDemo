@@ -15,6 +15,9 @@ void runExample(enum ExampleName name) {
         case PalindromeNumberExample:
             palindromeNumberExample();
             break;
+        case RomanToIntegerExample:
+            romanToIntegerExample();
+            break;
         default:
             break;
     }
