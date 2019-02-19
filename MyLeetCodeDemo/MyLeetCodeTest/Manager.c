@@ -12,6 +12,9 @@ void runExample(enum ExampleName name) {
         case ReverseIntegerExample:
             reverseIntegerExample();
             break;
+        case PalindromeNumberExample:
+            palindromeNumberExample();
+            break;
         default:
             break;
     }

@@ -11,7 +11,7 @@
 
 int main(int argc, const char * argv[]) {
     
-    runExample(ReverseIntegerExample);
+    runExample(PalindromeNumberExample);
     
     return 0;
 }

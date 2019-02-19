@@ -11,6 +11,7 @@
 		07B09812221BA93400337F89 /* TwoSum.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B09811221BA93400337F89 /* TwoSum.c */; };
 		07B0981D221BCF9100337F89 /* Manager.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B0981C221BCF9100337F89 /* Manager.c */; };
 		07B09821221BD0DA00337F89 /* Reverse-Integer.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B09820221BD0DA00337F89 /* Reverse-Integer.c */; };
+		07B09824221BDF6900337F89 /* PalindromeNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B09823221BDF6900337F89 /* PalindromeNumber.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,8 @@
 		07B0981C221BCF9100337F89 /* Manager.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Manager.c; sourceTree = "<group>"; };
 		07B0981F221BD0DA00337F89 /* Reverse-Integer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reverse-Integer.h"; sourceTree = "<group>"; };
 		07B09820221BD0DA00337F89 /* Reverse-Integer.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "Reverse-Integer.c"; sourceTree = "<group>"; };
+		07B09822221BDF6900337F89 /* PalindromeNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PalindromeNumber.h; sourceTree = "<group>"; };
+		07B09823221BDF6900337F89 /* PalindromeNumber.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = PalindromeNumber.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 				07B09811221BA93400337F89 /* TwoSum.c */,
 				07B0981F221BD0DA00337F89 /* Reverse-Integer.h */,
 				07B09820221BD0DA00337F89 /* Reverse-Integer.c */,
+				07B09822221BDF6900337F89 /* PalindromeNumber.h */,
+				07B09823221BDF6900337F89 /* PalindromeNumber.c */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -171,6 +176,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07B09824221BDF6900337F89 /* PalindromeNumber.c in Sources */,
 				07B09812221BA93400337F89 /* TwoSum.c in Sources */,
 				07B09821221BD0DA00337F89 /* Reverse-Integer.c in Sources */,
 				07B0981D221BCF9100337F89 /* Manager.c in Sources */,
