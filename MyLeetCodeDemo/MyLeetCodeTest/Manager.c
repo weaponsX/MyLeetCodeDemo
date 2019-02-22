@@ -22,6 +22,8 @@ void runExample(enum ExampleName name) {
             longestCommonPrefixExample();
         case ValidParenthesesExample:
             validParenthesesExample();
+        case MergeTwoSortedListsExample:
+            mergeTwoSortedListsExample();
             break;
         default:
             break;

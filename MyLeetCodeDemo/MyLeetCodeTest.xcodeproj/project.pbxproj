@@ -15,6 +15,7 @@
 		07B09827221BE79B00337F89 /* RomanToInteger.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B09826221BE79B00337F89 /* RomanToInteger.c */; };
 		07B0982A221BEC9200337F89 /* LongestCommonPrefix.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B09829221BEC9200337F89 /* LongestCommonPrefix.c */; };
 		07C02DBE221FD83800E93B82 /* ValidParentheses.c in Sources */ = {isa = PBXBuildFile; fileRef = 07C02DBD221FD83800E93B82 /* ValidParentheses.c */; };
+		07C02DC1221FDD7200E93B82 /* MergeTwoSortedLists.c in Sources */ = {isa = PBXBuildFile; fileRef = 07C02DC0221FDD7200E93B82 /* MergeTwoSortedLists.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,8 @@
 		07B09829221BEC9200337F89 /* LongestCommonPrefix.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = LongestCommonPrefix.c; sourceTree = "<group>"; };
 		07C02DBC221FD83800E93B82 /* ValidParentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ValidParentheses.h; sourceTree = "<group>"; };
 		07C02DBD221FD83800E93B82 /* ValidParentheses.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ValidParentheses.c; sourceTree = "<group>"; };
+		07C02DBF221FDD7200E93B82 /* MergeTwoSortedLists.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MergeTwoSortedLists.h; sourceTree = "<group>"; };
+		07C02DC0221FDD7200E93B82 /* MergeTwoSortedLists.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MergeTwoSortedLists.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +110,8 @@
 				07B09829221BEC9200337F89 /* LongestCommonPrefix.c */,
 				07C02DBC221FD83800E93B82 /* ValidParentheses.h */,
 				07C02DBD221FD83800E93B82 /* ValidParentheses.c */,
+				07C02DBF221FDD7200E93B82 /* MergeTwoSortedLists.h */,
+				07C02DC0221FDD7200E93B82 /* MergeTwoSortedLists.c */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -193,6 +198,7 @@
 			files = (
 				07B09824221BDF6900337F89 /* PalindromeNumber.c in Sources */,
 				07B09827221BE79B00337F89 /* RomanToInteger.c in Sources */,
+				07C02DC1221FDD7200E93B82 /* MergeTwoSortedLists.c in Sources */,
 				07B09812221BA93400337F89 /* TwoSum.c in Sources */,
 				07B09821221BD0DA00337F89 /* Reverse-Integer.c in Sources */,
 				07B0982A221BEC9200337F89 /* LongestCommonPrefix.c in Sources */,

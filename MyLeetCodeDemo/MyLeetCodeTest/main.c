@@ -11,7 +11,7 @@
 
 int main(int argc, const char * argv[]) {
     
-    runExample(ValidParenthesesExample);
+    runExample(MergeTwoSortedListsExample);
     
     return 0;
 }
