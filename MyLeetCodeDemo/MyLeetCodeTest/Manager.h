@@ -7,6 +7,7 @@ enum ExampleName {
     PalindromeNumberExample, // 回文数字
     RomanToIntegerExample, // 罗马数字转Int
     LongestCommonPrefixExample, // 字符串最长相同前缀
+    ValidParenthesesExample, // 验证括号
 };
 
 void runExample(enum ExampleName name);

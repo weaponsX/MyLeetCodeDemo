@@ -14,6 +14,7 @@
 		07B09824221BDF6900337F89 /* PalindromeNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B09823221BDF6900337F89 /* PalindromeNumber.c */; };
 		07B09827221BE79B00337F89 /* RomanToInteger.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B09826221BE79B00337F89 /* RomanToInteger.c */; };
 		07B0982A221BEC9200337F89 /* LongestCommonPrefix.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B09829221BEC9200337F89 /* LongestCommonPrefix.c */; };
+		07C02DBE221FD83800E93B82 /* ValidParentheses.c in Sources */ = {isa = PBXBuildFile; fileRef = 07C02DBD221FD83800E93B82 /* ValidParentheses.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +47,8 @@
 		07B09826221BE79B00337F89 /* RomanToInteger.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = RomanToInteger.c; sourceTree = "<group>"; };
 		07B09828221BEC9200337F89 /* LongestCommonPrefix.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LongestCommonPrefix.h; sourceTree = "<group>"; };
 		07B09829221BEC9200337F89 /* LongestCommonPrefix.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = LongestCommonPrefix.c; sourceTree = "<group>"; };
+		07C02DBC221FD83800E93B82 /* ValidParentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ValidParentheses.h; sourceTree = "<group>"; };
+		07C02DBD221FD83800E93B82 /* ValidParentheses.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ValidParentheses.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +105,8 @@
 				07B09826221BE79B00337F89 /* RomanToInteger.c */,
 				07B09828221BEC9200337F89 /* LongestCommonPrefix.h */,
 				07B09829221BEC9200337F89 /* LongestCommonPrefix.c */,
+				07C02DBC221FD83800E93B82 /* ValidParentheses.h */,
+				07C02DBD221FD83800E93B82 /* ValidParentheses.c */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -191,6 +196,7 @@
 				07B09812221BA93400337F89 /* TwoSum.c in Sources */,
 				07B09821221BD0DA00337F89 /* Reverse-Integer.c in Sources */,
 				07B0982A221BEC9200337F89 /* LongestCommonPrefix.c in Sources */,
+				07C02DBE221FD83800E93B82 /* ValidParentheses.c in Sources */,
 				07B0981D221BCF9100337F89 /* Manager.c in Sources */,
 				07B09807221BA88200337F89 /* main.c in Sources */,
 			);

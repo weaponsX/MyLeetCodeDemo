@@ -20,6 +20,8 @@ void runExample(enum ExampleName name) {
             break;
         case LongestCommonPrefixExample:
             longestCommonPrefixExample();
+        case ValidParenthesesExample:
+            validParenthesesExample();
             break;
         default:
             break;

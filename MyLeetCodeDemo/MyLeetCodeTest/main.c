@@ -11,7 +11,7 @@
 
 int main(int argc, const char * argv[]) {
     
-    runExample(LongestCommonPrefixExample);
+    runExample(ValidParenthesesExample);
     
     return 0;
 }
