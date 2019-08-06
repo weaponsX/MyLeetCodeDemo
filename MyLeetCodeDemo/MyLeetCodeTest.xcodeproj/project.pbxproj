@@ -16,6 +16,42 @@
 		07B0982A221BEC9200337F89 /* LongestCommonPrefix.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B09829221BEC9200337F89 /* LongestCommonPrefix.c */; };
 		07C02DBE221FD83800E93B82 /* ValidParentheses.c in Sources */ = {isa = PBXBuildFile; fileRef = 07C02DBD221FD83800E93B82 /* ValidParentheses.c */; };
 		07C02DC1221FDD7200E93B82 /* MergeTwoSortedLists.c in Sources */ = {isa = PBXBuildFile; fileRef = 07C02DC0221FDD7200E93B82 /* MergeTwoSortedLists.c */; };
+		C256DE4522F975D100C3D37F /* RemoveDuplicates.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE4422F975D100C3D37F /* RemoveDuplicates.c */; };
+		C256DE4822F9769000C3D37F /* RemoveElement.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE4722F9769000C3D37F /* RemoveElement.c */; };
+		C256DE4B22F9779D00C3D37F /* StrStr.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE4A22F9779D00C3D37F /* StrStr.c */; };
+		C256DE4E22F9782300C3D37F /* SearchInsert.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE4D22F9782300C3D37F /* SearchInsert.c */; };
+		C256DE5122F9787900C3D37F /* CountAndSay.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE5022F9787900C3D37F /* CountAndSay.c */; };
+		C256DE5722F9796200C3D37F /* MaxSubArray.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE5622F9796200C3D37F /* MaxSubArray.c */; };
+		C256DE5A22F979F100C3D37F /* LengthOfLastWord.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE5922F979F100C3D37F /* LengthOfLastWord.c */; };
+		C256DE5D22F97A7100C3D37F /* PlusOne.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE5C22F97A7100C3D37F /* PlusOne.c */; };
+		C256DE6022F97ACD00C3D37F /* AddBinary.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE5F22F97ACD00C3D37F /* AddBinary.c */; };
+		C256DE6322F97B3500C3D37F /* MySqrt.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE6222F97B3500C3D37F /* MySqrt.c */; };
+		C256DE6622F97D9600C3D37F /* ClimbStairs.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE6522F97D9600C3D37F /* ClimbStairs.c */; };
+		C256DE6922F97E2F00C3D37F /* DeleteDuplicates.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE6822F97E2F00C3D37F /* DeleteDuplicates.c */; };
+		C256DE6C22F97EE800C3D37F /* MergeTwoSortedArray.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE6B22F97EE800C3D37F /* MergeTwoSortedArray.c */; };
+		C256DE6F22F97F8E00C3D37F /* IsSameTree.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE6E22F97F8E00C3D37F /* IsSameTree.c */; };
+		C256DE7222F97FFE00C3D37F /* IsSymmetric.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE7122F97FFE00C3D37F /* IsSymmetric.c */; };
+		C256DE7522F9809E00C3D37F /* MaxDepth.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE7422F9809E00C3D37F /* MaxDepth.c */; };
+		C256DE7922F981BA00C3D37F /* LevelOrderBottomII.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE7822F981BA00C3D37F /* LevelOrderBottomII.c */; };
+		C256DE7C22F9822C00C3D37F /* SortedArrayToBST.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE7B22F9822C00C3D37F /* SortedArrayToBST.c */; };
+		C256DE7F22F982B700C3D37F /* IsBalanced.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE7E22F982B700C3D37F /* IsBalanced.c */; };
+		C256DE8222F9849E00C3D37F /* MinDepth.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE8122F9849E00C3D37F /* MinDepth.c */; };
+		C256DE8522F9851500C3D37F /* HasPathSum.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE8422F9851500C3D37F /* HasPathSum.c */; };
+		C256DE8822F985C700C3D37F /* PascalTriangle.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE8722F985C700C3D37F /* PascalTriangle.c */; };
+		C256DE8B22F9863E00C3D37F /* PascalTriangleII.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE8A22F9863E00C3D37F /* PascalTriangleII.c */; };
+		C256DE8E22F986C300C3D37F /* MaxProfit.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE8D22F986C300C3D37F /* MaxProfit.c */; };
+		C256DE9122F9874200C3D37F /* MaxProfitII.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE9022F9874200C3D37F /* MaxProfitII.c */; };
+		C256DE9422F987AC00C3D37F /* IsPalindromeString.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE9322F987AC00C3D37F /* IsPalindromeString.c */; };
+		C256DE9722F9886E00C3D37F /* SingleNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE9622F9886E00C3D37F /* SingleNumber.c */; };
+		C256DE9A22F988DE00C3D37F /* HasCycle.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE9922F988DE00C3D37F /* HasCycle.c */; };
+		C256DE9D22F9897500C3D37F /* MinStack.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE9C22F9897500C3D37F /* MinStack.c */; };
+		C256DEA022F98A1E00C3D37F /* GetIntersectionNode.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DE9F22F98A1E00C3D37F /* GetIntersectionNode.c */; };
+		C256DEA322F98A9700C3D37F /* TwoSumII.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DEA222F98A9700C3D37F /* TwoSumII.c */; };
+		C256DEA622F98B1A00C3D37F /* ConvertToTitle.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DEA522F98B1A00C3D37F /* ConvertToTitle.c */; };
+		C256DEA922F98B8700C3D37F /* MajorityElement.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DEA822F98B8700C3D37F /* MajorityElement.c */; };
+		C256DEAC22F98BF800C3D37F /* TitleToNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DEAB22F98BF800C3D37F /* TitleToNumber.c */; };
+		C256DEAF22F98C9000C3D37F /* TrailingZeroes.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DEAE22F98C9000C3D37F /* TrailingZeroes.c */; };
+		C256DEB222F98D5C00C3D37F /* RotateArray.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DEB122F98D5C00C3D37F /* RotateArray.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -52,6 +88,79 @@
 		07C02DBD221FD83800E93B82 /* ValidParentheses.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ValidParentheses.c; sourceTree = "<group>"; };
 		07C02DBF221FDD7200E93B82 /* MergeTwoSortedLists.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MergeTwoSortedLists.h; sourceTree = "<group>"; };
 		07C02DC0221FDD7200E93B82 /* MergeTwoSortedLists.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MergeTwoSortedLists.c; sourceTree = "<group>"; };
+		C256DE4322F975D100C3D37F /* RemoveDuplicates.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RemoveDuplicates.h; sourceTree = "<group>"; };
+		C256DE4422F975D100C3D37F /* RemoveDuplicates.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = RemoveDuplicates.c; sourceTree = "<group>"; };
+		C256DE4622F9769000C3D37F /* RemoveElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RemoveElement.h; sourceTree = "<group>"; };
+		C256DE4722F9769000C3D37F /* RemoveElement.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = RemoveElement.c; sourceTree = "<group>"; };
+		C256DE4922F9779D00C3D37F /* StrStr.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StrStr.h; sourceTree = "<group>"; };
+		C256DE4A22F9779D00C3D37F /* StrStr.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = StrStr.c; sourceTree = "<group>"; };
+		C256DE4C22F9782300C3D37F /* SearchInsert.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SearchInsert.h; sourceTree = "<group>"; };
+		C256DE4D22F9782300C3D37F /* SearchInsert.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = SearchInsert.c; sourceTree = "<group>"; };
+		C256DE4F22F9787900C3D37F /* CountAndSay.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CountAndSay.h; sourceTree = "<group>"; };
+		C256DE5022F9787900C3D37F /* CountAndSay.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = CountAndSay.c; sourceTree = "<group>"; };
+		C256DE5522F9796200C3D37F /* MaxSubArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MaxSubArray.h; sourceTree = "<group>"; };
+		C256DE5622F9796200C3D37F /* MaxSubArray.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MaxSubArray.c; sourceTree = "<group>"; };
+		C256DE5822F979F100C3D37F /* LengthOfLastWord.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LengthOfLastWord.h; sourceTree = "<group>"; };
+		C256DE5922F979F100C3D37F /* LengthOfLastWord.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = LengthOfLastWord.c; sourceTree = "<group>"; };
+		C256DE5B22F97A7100C3D37F /* PlusOne.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlusOne.h; sourceTree = "<group>"; };
+		C256DE5C22F97A7100C3D37F /* PlusOne.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = PlusOne.c; sourceTree = "<group>"; };
+		C256DE5E22F97ACD00C3D37F /* AddBinary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddBinary.h; sourceTree = "<group>"; };
+		C256DE5F22F97ACD00C3D37F /* AddBinary.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = AddBinary.c; sourceTree = "<group>"; };
+		C256DE6122F97B3500C3D37F /* MySqrt.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MySqrt.h; sourceTree = "<group>"; };
+		C256DE6222F97B3500C3D37F /* MySqrt.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MySqrt.c; sourceTree = "<group>"; };
+		C256DE6422F97D9600C3D37F /* ClimbStairs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ClimbStairs.h; sourceTree = "<group>"; };
+		C256DE6522F97D9600C3D37F /* ClimbStairs.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ClimbStairs.c; sourceTree = "<group>"; };
+		C256DE6722F97E2F00C3D37F /* DeleteDuplicates.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DeleteDuplicates.h; sourceTree = "<group>"; };
+		C256DE6822F97E2F00C3D37F /* DeleteDuplicates.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = DeleteDuplicates.c; sourceTree = "<group>"; };
+		C256DE6A22F97EE800C3D37F /* MergeTwoSortedArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MergeTwoSortedArray.h; sourceTree = "<group>"; };
+		C256DE6B22F97EE800C3D37F /* MergeTwoSortedArray.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MergeTwoSortedArray.c; sourceTree = "<group>"; };
+		C256DE6D22F97F8E00C3D37F /* IsSameTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsSameTree.h; sourceTree = "<group>"; };
+		C256DE6E22F97F8E00C3D37F /* IsSameTree.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsSameTree.c; sourceTree = "<group>"; };
+		C256DE7022F97FFE00C3D37F /* IsSymmetric.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsSymmetric.h; sourceTree = "<group>"; };
+		C256DE7122F97FFE00C3D37F /* IsSymmetric.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsSymmetric.c; sourceTree = "<group>"; };
+		C256DE7322F9809E00C3D37F /* MaxDepth.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MaxDepth.h; sourceTree = "<group>"; };
+		C256DE7422F9809E00C3D37F /* MaxDepth.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MaxDepth.c; sourceTree = "<group>"; };
+		C256DE7622F980EE00C3D37F /* defines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = defines.h; sourceTree = "<group>"; };
+		C256DE7722F981BA00C3D37F /* LevelOrderBottomII.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LevelOrderBottomII.h; sourceTree = "<group>"; };
+		C256DE7822F981BA00C3D37F /* LevelOrderBottomII.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = LevelOrderBottomII.c; sourceTree = "<group>"; };
+		C256DE7A22F9822C00C3D37F /* SortedArrayToBST.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SortedArrayToBST.h; sourceTree = "<group>"; };
+		C256DE7B22F9822C00C3D37F /* SortedArrayToBST.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = SortedArrayToBST.c; sourceTree = "<group>"; };
+		C256DE7D22F982B700C3D37F /* IsBalanced.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsBalanced.h; sourceTree = "<group>"; };
+		C256DE7E22F982B700C3D37F /* IsBalanced.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsBalanced.c; sourceTree = "<group>"; };
+		C256DE8022F9849E00C3D37F /* MinDepth.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MinDepth.h; sourceTree = "<group>"; };
+		C256DE8122F9849E00C3D37F /* MinDepth.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MinDepth.c; sourceTree = "<group>"; };
+		C256DE8322F9851500C3D37F /* HasPathSum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HasPathSum.h; sourceTree = "<group>"; };
+		C256DE8422F9851500C3D37F /* HasPathSum.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = HasPathSum.c; sourceTree = "<group>"; };
+		C256DE8622F985C700C3D37F /* PascalTriangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PascalTriangle.h; sourceTree = "<group>"; };
+		C256DE8722F985C700C3D37F /* PascalTriangle.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = PascalTriangle.c; sourceTree = "<group>"; };
+		C256DE8922F9863E00C3D37F /* PascalTriangleII.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PascalTriangleII.h; sourceTree = "<group>"; };
+		C256DE8A22F9863E00C3D37F /* PascalTriangleII.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = PascalTriangleII.c; sourceTree = "<group>"; };
+		C256DE8C22F986C300C3D37F /* MaxProfit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MaxProfit.h; sourceTree = "<group>"; };
+		C256DE8D22F986C300C3D37F /* MaxProfit.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MaxProfit.c; sourceTree = "<group>"; };
+		C256DE8F22F9874200C3D37F /* MaxProfitII.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MaxProfitII.h; sourceTree = "<group>"; };
+		C256DE9022F9874200C3D37F /* MaxProfitII.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MaxProfitII.c; sourceTree = "<group>"; };
+		C256DE9222F987AC00C3D37F /* IsPalindromeString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsPalindromeString.h; sourceTree = "<group>"; };
+		C256DE9322F987AC00C3D37F /* IsPalindromeString.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsPalindromeString.c; sourceTree = "<group>"; };
+		C256DE9522F9886E00C3D37F /* SingleNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SingleNumber.h; sourceTree = "<group>"; };
+		C256DE9622F9886E00C3D37F /* SingleNumber.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = SingleNumber.c; sourceTree = "<group>"; };
+		C256DE9822F988DE00C3D37F /* HasCycle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HasCycle.h; sourceTree = "<group>"; };
+		C256DE9922F988DE00C3D37F /* HasCycle.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = HasCycle.c; sourceTree = "<group>"; };
+		C256DE9B22F9897500C3D37F /* MinStack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MinStack.h; sourceTree = "<group>"; };
+		C256DE9C22F9897500C3D37F /* MinStack.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MinStack.c; sourceTree = "<group>"; };
+		C256DE9E22F98A1E00C3D37F /* GetIntersectionNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GetIntersectionNode.h; sourceTree = "<group>"; };
+		C256DE9F22F98A1E00C3D37F /* GetIntersectionNode.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = GetIntersectionNode.c; sourceTree = "<group>"; };
+		C256DEA122F98A9700C3D37F /* TwoSumII.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TwoSumII.h; sourceTree = "<group>"; };
+		C256DEA222F98A9700C3D37F /* TwoSumII.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = TwoSumII.c; sourceTree = "<group>"; };
+		C256DEA422F98B1A00C3D37F /* ConvertToTitle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConvertToTitle.h; sourceTree = "<group>"; };
+		C256DEA522F98B1A00C3D37F /* ConvertToTitle.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ConvertToTitle.c; sourceTree = "<group>"; };
+		C256DEA722F98B8700C3D37F /* MajorityElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MajorityElement.h; sourceTree = "<group>"; };
+		C256DEA822F98B8700C3D37F /* MajorityElement.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MajorityElement.c; sourceTree = "<group>"; };
+		C256DEAA22F98BF800C3D37F /* TitleToNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TitleToNumber.h; sourceTree = "<group>"; };
+		C256DEAB22F98BF800C3D37F /* TitleToNumber.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = TitleToNumber.c; sourceTree = "<group>"; };
+		C256DEAD22F98C9000C3D37F /* TrailingZeroes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TrailingZeroes.h; sourceTree = "<group>"; };
+		C256DEAE22F98C9000C3D37F /* TrailingZeroes.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = TrailingZeroes.c; sourceTree = "<group>"; };
+		C256DEB022F98D5C00C3D37F /* RotateArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RotateArray.h; sourceTree = "<group>"; };
+		C256DEB122F98D5C00C3D37F /* RotateArray.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = RotateArray.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +221,78 @@
 				07C02DBD221FD83800E93B82 /* ValidParentheses.c */,
 				07C02DBF221FDD7200E93B82 /* MergeTwoSortedLists.h */,
 				07C02DC0221FDD7200E93B82 /* MergeTwoSortedLists.c */,
+				C256DE4322F975D100C3D37F /* RemoveDuplicates.h */,
+				C256DE4422F975D100C3D37F /* RemoveDuplicates.c */,
+				C256DE4622F9769000C3D37F /* RemoveElement.h */,
+				C256DE4722F9769000C3D37F /* RemoveElement.c */,
+				C256DE4922F9779D00C3D37F /* StrStr.h */,
+				C256DE4A22F9779D00C3D37F /* StrStr.c */,
+				C256DE4C22F9782300C3D37F /* SearchInsert.h */,
+				C256DE4D22F9782300C3D37F /* SearchInsert.c */,
+				C256DE4F22F9787900C3D37F /* CountAndSay.h */,
+				C256DE5022F9787900C3D37F /* CountAndSay.c */,
+				C256DE5522F9796200C3D37F /* MaxSubArray.h */,
+				C256DE5622F9796200C3D37F /* MaxSubArray.c */,
+				C256DE5822F979F100C3D37F /* LengthOfLastWord.h */,
+				C256DE5922F979F100C3D37F /* LengthOfLastWord.c */,
+				C256DE5B22F97A7100C3D37F /* PlusOne.h */,
+				C256DE5C22F97A7100C3D37F /* PlusOne.c */,
+				C256DE5E22F97ACD00C3D37F /* AddBinary.h */,
+				C256DE5F22F97ACD00C3D37F /* AddBinary.c */,
+				C256DE6122F97B3500C3D37F /* MySqrt.h */,
+				C256DE6222F97B3500C3D37F /* MySqrt.c */,
+				C256DE6422F97D9600C3D37F /* ClimbStairs.h */,
+				C256DE6522F97D9600C3D37F /* ClimbStairs.c */,
+				C256DE6722F97E2F00C3D37F /* DeleteDuplicates.h */,
+				C256DE6822F97E2F00C3D37F /* DeleteDuplicates.c */,
+				C256DE6A22F97EE800C3D37F /* MergeTwoSortedArray.h */,
+				C256DE6B22F97EE800C3D37F /* MergeTwoSortedArray.c */,
+				C256DE6D22F97F8E00C3D37F /* IsSameTree.h */,
+				C256DE6E22F97F8E00C3D37F /* IsSameTree.c */,
+				C256DE7022F97FFE00C3D37F /* IsSymmetric.h */,
+				C256DE7122F97FFE00C3D37F /* IsSymmetric.c */,
+				C256DE7322F9809E00C3D37F /* MaxDepth.h */,
+				C256DE7422F9809E00C3D37F /* MaxDepth.c */,
+				C256DE7722F981BA00C3D37F /* LevelOrderBottomII.h */,
+				C256DE7822F981BA00C3D37F /* LevelOrderBottomII.c */,
+				C256DE7A22F9822C00C3D37F /* SortedArrayToBST.h */,
+				C256DE7B22F9822C00C3D37F /* SortedArrayToBST.c */,
+				C256DE7D22F982B700C3D37F /* IsBalanced.h */,
+				C256DE7E22F982B700C3D37F /* IsBalanced.c */,
+				C256DE8022F9849E00C3D37F /* MinDepth.h */,
+				C256DE8122F9849E00C3D37F /* MinDepth.c */,
+				C256DE8322F9851500C3D37F /* HasPathSum.h */,
+				C256DE8422F9851500C3D37F /* HasPathSum.c */,
+				C256DE8622F985C700C3D37F /* PascalTriangle.h */,
+				C256DE8722F985C700C3D37F /* PascalTriangle.c */,
+				C256DE8922F9863E00C3D37F /* PascalTriangleII.h */,
+				C256DE8A22F9863E00C3D37F /* PascalTriangleII.c */,
+				C256DE8C22F986C300C3D37F /* MaxProfit.h */,
+				C256DE8D22F986C300C3D37F /* MaxProfit.c */,
+				C256DE8F22F9874200C3D37F /* MaxProfitII.h */,
+				C256DE9022F9874200C3D37F /* MaxProfitII.c */,
+				C256DE9222F987AC00C3D37F /* IsPalindromeString.h */,
+				C256DE9322F987AC00C3D37F /* IsPalindromeString.c */,
+				C256DE9522F9886E00C3D37F /* SingleNumber.h */,
+				C256DE9622F9886E00C3D37F /* SingleNumber.c */,
+				C256DE9822F988DE00C3D37F /* HasCycle.h */,
+				C256DE9922F988DE00C3D37F /* HasCycle.c */,
+				C256DE9B22F9897500C3D37F /* MinStack.h */,
+				C256DE9C22F9897500C3D37F /* MinStack.c */,
+				C256DE9E22F98A1E00C3D37F /* GetIntersectionNode.h */,
+				C256DE9F22F98A1E00C3D37F /* GetIntersectionNode.c */,
+				C256DEA122F98A9700C3D37F /* TwoSumII.h */,
+				C256DEA222F98A9700C3D37F /* TwoSumII.c */,
+				C256DEA422F98B1A00C3D37F /* ConvertToTitle.h */,
+				C256DEA522F98B1A00C3D37F /* ConvertToTitle.c */,
+				C256DEA722F98B8700C3D37F /* MajorityElement.h */,
+				C256DEA822F98B8700C3D37F /* MajorityElement.c */,
+				C256DEAA22F98BF800C3D37F /* TitleToNumber.h */,
+				C256DEAB22F98BF800C3D37F /* TitleToNumber.c */,
+				C256DEAD22F98C9000C3D37F /* TrailingZeroes.h */,
+				C256DEAE22F98C9000C3D37F /* TrailingZeroes.c */,
+				C256DEB022F98D5C00C3D37F /* RotateArray.h */,
+				C256DEB122F98D5C00C3D37F /* RotateArray.c */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -136,6 +317,7 @@
 				07B09814221BA95100337F89 /* Easy.h */,
 				07B09815221BA95B00337F89 /* Hard.h */,
 				07B09816221BA96C00337F89 /* Medium.h */,
+				C256DE7622F980EE00C3D37F /* defines.h */,
 			);
 			path = Headers;
 			sourceTree = "<group>";
@@ -180,6 +362,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 07B097FA221BA88200337F89;
 			productRefGroup = 07B09804221BA88200337F89 /* Products */;
@@ -196,15 +379,51 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C256DE6922F97E2F00C3D37F /* DeleteDuplicates.c in Sources */,
 				07B09824221BDF6900337F89 /* PalindromeNumber.c in Sources */,
+				C256DEA622F98B1A00C3D37F /* ConvertToTitle.c in Sources */,
+				C256DE5D22F97A7100C3D37F /* PlusOne.c in Sources */,
+				C256DE6C22F97EE800C3D37F /* MergeTwoSortedArray.c in Sources */,
+				C256DE7522F9809E00C3D37F /* MaxDepth.c in Sources */,
 				07B09827221BE79B00337F89 /* RomanToInteger.c in Sources */,
+				C256DE4822F9769000C3D37F /* RemoveElement.c in Sources */,
+				C256DEB222F98D5C00C3D37F /* RotateArray.c in Sources */,
+				C256DE6022F97ACD00C3D37F /* AddBinary.c in Sources */,
 				07C02DC1221FDD7200E93B82 /* MergeTwoSortedLists.c in Sources */,
+				C256DE8E22F986C300C3D37F /* MaxProfit.c in Sources */,
 				07B09812221BA93400337F89 /* TwoSum.c in Sources */,
+				C256DE6622F97D9600C3D37F /* ClimbStairs.c in Sources */,
+				C256DEA322F98A9700C3D37F /* TwoSumII.c in Sources */,
+				C256DEA022F98A1E00C3D37F /* GetIntersectionNode.c in Sources */,
+				C256DE9A22F988DE00C3D37F /* HasCycle.c in Sources */,
+				C256DE8522F9851500C3D37F /* HasPathSum.c in Sources */,
 				07B09821221BD0DA00337F89 /* Reverse-Integer.c in Sources */,
+				C256DE7922F981BA00C3D37F /* LevelOrderBottomII.c in Sources */,
+				C256DE9422F987AC00C3D37F /* IsPalindromeString.c in Sources */,
+				C256DE5722F9796200C3D37F /* MaxSubArray.c in Sources */,
+				C256DE9122F9874200C3D37F /* MaxProfitII.c in Sources */,
 				07B0982A221BEC9200337F89 /* LongestCommonPrefix.c in Sources */,
+				C256DE7F22F982B700C3D37F /* IsBalanced.c in Sources */,
 				07C02DBE221FD83800E93B82 /* ValidParentheses.c in Sources */,
+				C256DE8822F985C700C3D37F /* PascalTriangle.c in Sources */,
+				C256DE6322F97B3500C3D37F /* MySqrt.c in Sources */,
+				C256DE8222F9849E00C3D37F /* MinDepth.c in Sources */,
+				C256DE4522F975D100C3D37F /* RemoveDuplicates.c in Sources */,
+				C256DE5A22F979F100C3D37F /* LengthOfLastWord.c in Sources */,
+				C256DE6F22F97F8E00C3D37F /* IsSameTree.c in Sources */,
+				C256DEAF22F98C9000C3D37F /* TrailingZeroes.c in Sources */,
 				07B0981D221BCF9100337F89 /* Manager.c in Sources */,
+				C256DE4E22F9782300C3D37F /* SearchInsert.c in Sources */,
+				C256DEA922F98B8700C3D37F /* MajorityElement.c in Sources */,
+				C256DE5122F9787900C3D37F /* CountAndSay.c in Sources */,
+				C256DE9D22F9897500C3D37F /* MinStack.c in Sources */,
 				07B09807221BA88200337F89 /* main.c in Sources */,
+				C256DE7C22F9822C00C3D37F /* SortedArrayToBST.c in Sources */,
+				C256DE4B22F9779D00C3D37F /* StrStr.c in Sources */,
+				C256DEAC22F98BF800C3D37F /* TitleToNumber.c in Sources */,
+				C256DE7222F97FFE00C3D37F /* IsSymmetric.c in Sources */,
+				C256DE9722F9886E00C3D37F /* SingleNumber.c in Sources */,
+				C256DE8B22F9863E00C3D37F /* PascalTriangleII.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

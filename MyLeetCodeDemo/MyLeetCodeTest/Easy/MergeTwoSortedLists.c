@@ -1,11 +1,7 @@
 
 #include "MergeTwoSortedLists.h"
 #include <stdlib.h>
-
-struct ListNode {
-    int val;
-    struct ListNode *next;
-};
+#include "defines.h"
 
 
 struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2) {
