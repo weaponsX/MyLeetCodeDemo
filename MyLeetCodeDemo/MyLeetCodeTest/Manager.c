@@ -133,7 +133,107 @@ void runExample(enum ExampleName name) {
         case RotateArrayExample:
             rotateArrayExample();
             break;
-        default:
+        case ReverseBitsExample:
+            reverseBitsExample();
+            break;
+        case HammingWeightExample:
+            hammingWeightExample();
+            break;
+        case IsHappyNumberExample:
+            isHappyNumberExample();
+            break;
+        case RemoveListNodeElementsExample:
+            removeListNodeElementsExample();
+            break;
+        case CountPrimesExample:
+            countPrimesExample();
+            break;
+        case IsIsomorphicStringExample:
+            isIsomorphicStringExample();
+            break;
+        case ReverseListNodeExample:
+            reverseListNodeExample();
+            break;
+        case ContainsDuplicateExample:
+            containsDuplicateExample();
+            break;
+        case ContainsDuplicateIIExample:
+            containsNearbyDuplicateExample();
+            break;
+        case MyStackWithQueueExample:
+            myStackWithQueueExample();
+            break;
+        case InvertTreeExample:
+            invertTreeExample();
+            break;
+        case IsPowerOfTwoExample:
+            isPowerOfTwoExample();
+            break;
+        case MyQueueWithStackExample:
+            myQueueWithStackExample();
+            break;
+        case IsPalindromeListNodeExample:
+            isPalindromeListNodeExample();
+            break;
+        case LowestCommonAncestorExample:
+            lowestCommonAncestorExample();
+            break;
+        case DeleteNodeExample:
+            deleteNodeExample();
+            break;
+        case IsAnagramExample:
+            isAnagramExample();
+            break;
+        case BinaryTreePathsExample:
+            binaryTreePathsExample();
+            break;
+        case AddDigitsExample:
+            addDigitsExample();
+            break;
+        case IsUglyNumberExample:
+            isUglyNumberExample();
+            break;
+        case MissingNumberExample:
+            missingNumberExample();
+            break;
+        case FirstBadVersionExample:
+            firstBadVersionExample();
+            break;
+        case MoveZeroesExample:
+            moveZeroesExample();
+            break;
+        case WordPatternExample:
+            wordPatternExample();
+            break;
+        case CanWinNimExample:
+            canWinNimExample();
+            break;
+        case NumArrayExample:
+            numArrayExample();
+            break;
+        case IsPowerOfThreeExample:
+            isPowerOfThreeExample();
+            break;
+        case IsPowerOfFourExample:
+            isPowerOfFourExample();
+            break;
+        case ReverseStringExample:
+            reverseStringExample();
+            break;
+        case ReverseVowelsExample:
+            reverseVowelsExample();
+            break;
+        case IntersectionExample:
+            intersectionExample();
+            break;
+        case IntersectionIIExample:
+            intersectionIIExample();
+            break;
+        case IsPerfectSquareExample:
+            isPerfectSquareExample();
+            break;
+        case GetSumExample:
+            getSumExample();
             break;
     }
 }

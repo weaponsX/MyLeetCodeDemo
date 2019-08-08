@@ -52,6 +52,40 @@
 		C256DEAC22F98BF800C3D37F /* TitleToNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DEAB22F98BF800C3D37F /* TitleToNumber.c */; };
 		C256DEAF22F98C9000C3D37F /* TrailingZeroes.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DEAE22F98C9000C3D37F /* TrailingZeroes.c */; };
 		C256DEB222F98D5C00C3D37F /* RotateArray.c in Sources */ = {isa = PBXBuildFile; fileRef = C256DEB122F98D5C00C3D37F /* RotateArray.c */; };
+		C2C27AC922FA68B200238969 /* ReverseBits.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AC822FA68B200238969 /* ReverseBits.c */; };
+		C2C27ACC22FA6AEC00238969 /* HammingWeight.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27ACB22FA6AEC00238969 /* HammingWeight.c */; };
+		C2C27ACF22FA6C0800238969 /* IsHappyNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27ACE22FA6C0800238969 /* IsHappyNumber.c */; };
+		C2C27AD222FA6DE100238969 /* RemoveListNodeElements.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AD122FA6DE100238969 /* RemoveListNodeElements.c */; };
+		C2C27AD522FA8B2F00238969 /* CountPrimes.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AD422FA8B2F00238969 /* CountPrimes.c */; };
+		C2C27AD822FA8BDF00238969 /* IsIsomorphicString.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AD722FA8BDF00238969 /* IsIsomorphicString.c */; };
+		C2C27ADB22FA8CC700238969 /* ReverseListNode.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27ADA22FA8CC700238969 /* ReverseListNode.c */; };
+		C2C27ADE22FAA6E500238969 /* ContainsDuplicate.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27ADD22FAA6E500238969 /* ContainsDuplicate.c */; };
+		C2C27AE122FAA76900238969 /* ContainsDuplicateII.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AE022FAA76900238969 /* ContainsDuplicateII.c */; };
+		C2C27AE422FBC23A00238969 /* MyStackWithQueue.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AE322FBC23A00238969 /* MyStackWithQueue.c */; };
+		C2C27AE722FBC40600238969 /* InvertTree.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AE622FBC40600238969 /* InvertTree.c */; };
+		C2C27AEA22FBC85900238969 /* IsPowerOfTwo.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AE922FBC85900238969 /* IsPowerOfTwo.c */; };
+		C2C27AED22FBCF5400238969 /* MyQueueWithStack.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AEC22FBCF5400238969 /* MyQueueWithStack.c */; };
+		C2C27AF022FC066D00238969 /* IsPalindromeListNode.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AEF22FC066D00238969 /* IsPalindromeListNode.c */; };
+		C2C27AF322FC070F00238969 /* LowestCommonAncestor.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AF222FC070F00238969 /* LowestCommonAncestor.c */; };
+		C2C27AF622FC0FB000238969 /* DeleteNode.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AF522FC0FB000238969 /* DeleteNode.c */; };
+		C2C27AF922FC126000238969 /* IsAnagram.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AF822FC126000238969 /* IsAnagram.c */; };
+		C2C27AFC22FC130100238969 /* BinaryTreePaths.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AFB22FC130100238969 /* BinaryTreePaths.c */; };
+		C2C27AFF22FC13C600238969 /* AddDigits.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27AFE22FC13C600238969 /* AddDigits.c */; };
+		C2C27B0222FC18CD00238969 /* IsUglyNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B0122FC18CD00238969 /* IsUglyNumber.c */; };
+		C2C27B0522FC196B00238969 /* MissingNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B0422FC196B00238969 /* MissingNumber.c */; };
+		C2C27B0822FC1A0B00238969 /* FirstBadVersion.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B0722FC1A0B00238969 /* FirstBadVersion.c */; };
+		C2C27B0B22FC1A8500238969 /* MoveZeroes.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B0A22FC1A8500238969 /* MoveZeroes.c */; };
+		C2C27B0E22FC1AF300238969 /* WordPattern.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B0D22FC1AF300238969 /* WordPattern.c */; };
+		C2C27B1122FC1B6600238969 /* CanWinNim.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B1022FC1B6600238969 /* CanWinNim.c */; };
+		C2C27B1422FC1BEC00238969 /* NumArray.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B1322FC1BEC00238969 /* NumArray.c */; };
+		C2C27B1722FC1C6200238969 /* IsPowerOfThree.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B1622FC1C6200238969 /* IsPowerOfThree.c */; };
+		C2C27B1A22FC1CCA00238969 /* IsPowerOfFour.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B1922FC1CCA00238969 /* IsPowerOfFour.c */; };
+		C2C27B1D22FC1D3C00238969 /* ReverseString.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B1C22FC1D3C00238969 /* ReverseString.c */; };
+		C2C27B2022FC1DB400238969 /* ReverseVowels.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B1F22FC1DB400238969 /* ReverseVowels.c */; };
+		C2C27B2322FC1E1D00238969 /* Intersection.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B2222FC1E1D00238969 /* Intersection.c */; };
+		C2C27B2622FC1E2D00238969 /* IntersectionII.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B2522FC1E2D00238969 /* IntersectionII.c */; };
+		C2C27B2922FC1EE600238969 /* IsPerfectSquare.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B2822FC1EE600238969 /* IsPerfectSquare.c */; };
+		C2C27B2C22FC1F5400238969 /* GetSum.c in Sources */ = {isa = PBXBuildFile; fileRef = C2C27B2B22FC1F5400238969 /* GetSum.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -161,6 +195,74 @@
 		C256DEAE22F98C9000C3D37F /* TrailingZeroes.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = TrailingZeroes.c; sourceTree = "<group>"; };
 		C256DEB022F98D5C00C3D37F /* RotateArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RotateArray.h; sourceTree = "<group>"; };
 		C256DEB122F98D5C00C3D37F /* RotateArray.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = RotateArray.c; sourceTree = "<group>"; };
+		C2C27AC722FA68B200238969 /* ReverseBits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReverseBits.h; sourceTree = "<group>"; };
+		C2C27AC822FA68B200238969 /* ReverseBits.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ReverseBits.c; sourceTree = "<group>"; };
+		C2C27ACA22FA6AEC00238969 /* HammingWeight.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HammingWeight.h; sourceTree = "<group>"; };
+		C2C27ACB22FA6AEC00238969 /* HammingWeight.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = HammingWeight.c; sourceTree = "<group>"; };
+		C2C27ACD22FA6C0800238969 /* IsHappyNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsHappyNumber.h; sourceTree = "<group>"; };
+		C2C27ACE22FA6C0800238969 /* IsHappyNumber.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsHappyNumber.c; sourceTree = "<group>"; };
+		C2C27AD022FA6DE100238969 /* RemoveListNodeElements.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RemoveListNodeElements.h; sourceTree = "<group>"; };
+		C2C27AD122FA6DE100238969 /* RemoveListNodeElements.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = RemoveListNodeElements.c; sourceTree = "<group>"; };
+		C2C27AD322FA8B2F00238969 /* CountPrimes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CountPrimes.h; sourceTree = "<group>"; };
+		C2C27AD422FA8B2F00238969 /* CountPrimes.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = CountPrimes.c; sourceTree = "<group>"; };
+		C2C27AD622FA8BDF00238969 /* IsIsomorphicString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsIsomorphicString.h; sourceTree = "<group>"; };
+		C2C27AD722FA8BDF00238969 /* IsIsomorphicString.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsIsomorphicString.c; sourceTree = "<group>"; };
+		C2C27AD922FA8CC700238969 /* ReverseListNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReverseListNode.h; sourceTree = "<group>"; };
+		C2C27ADA22FA8CC700238969 /* ReverseListNode.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ReverseListNode.c; sourceTree = "<group>"; };
+		C2C27ADC22FAA6E500238969 /* ContainsDuplicate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ContainsDuplicate.h; sourceTree = "<group>"; };
+		C2C27ADD22FAA6E500238969 /* ContainsDuplicate.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ContainsDuplicate.c; sourceTree = "<group>"; };
+		C2C27ADF22FAA76900238969 /* ContainsDuplicateII.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ContainsDuplicateII.h; sourceTree = "<group>"; };
+		C2C27AE022FAA76900238969 /* ContainsDuplicateII.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ContainsDuplicateII.c; sourceTree = "<group>"; };
+		C2C27AE222FBC23A00238969 /* MyStackWithQueue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyStackWithQueue.h; sourceTree = "<group>"; };
+		C2C27AE322FBC23A00238969 /* MyStackWithQueue.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MyStackWithQueue.c; sourceTree = "<group>"; };
+		C2C27AE522FBC40600238969 /* InvertTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InvertTree.h; sourceTree = "<group>"; };
+		C2C27AE622FBC40600238969 /* InvertTree.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = InvertTree.c; sourceTree = "<group>"; };
+		C2C27AE822FBC85900238969 /* IsPowerOfTwo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsPowerOfTwo.h; sourceTree = "<group>"; };
+		C2C27AE922FBC85900238969 /* IsPowerOfTwo.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsPowerOfTwo.c; sourceTree = "<group>"; };
+		C2C27AEB22FBCF5400238969 /* MyQueueWithStack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyQueueWithStack.h; sourceTree = "<group>"; };
+		C2C27AEC22FBCF5400238969 /* MyQueueWithStack.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MyQueueWithStack.c; sourceTree = "<group>"; };
+		C2C27AEE22FC066D00238969 /* IsPalindromeListNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsPalindromeListNode.h; sourceTree = "<group>"; };
+		C2C27AEF22FC066D00238969 /* IsPalindromeListNode.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsPalindromeListNode.c; sourceTree = "<group>"; };
+		C2C27AF122FC070F00238969 /* LowestCommonAncestor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LowestCommonAncestor.h; sourceTree = "<group>"; };
+		C2C27AF222FC070F00238969 /* LowestCommonAncestor.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = LowestCommonAncestor.c; sourceTree = "<group>"; };
+		C2C27AF422FC0FB000238969 /* DeleteNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DeleteNode.h; sourceTree = "<group>"; };
+		C2C27AF522FC0FB000238969 /* DeleteNode.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = DeleteNode.c; sourceTree = "<group>"; };
+		C2C27AF722FC126000238969 /* IsAnagram.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsAnagram.h; sourceTree = "<group>"; };
+		C2C27AF822FC126000238969 /* IsAnagram.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsAnagram.c; sourceTree = "<group>"; };
+		C2C27AFA22FC130100238969 /* BinaryTreePaths.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinaryTreePaths.h; sourceTree = "<group>"; };
+		C2C27AFB22FC130100238969 /* BinaryTreePaths.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = BinaryTreePaths.c; sourceTree = "<group>"; };
+		C2C27AFD22FC13C600238969 /* AddDigits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddDigits.h; sourceTree = "<group>"; };
+		C2C27AFE22FC13C600238969 /* AddDigits.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = AddDigits.c; sourceTree = "<group>"; };
+		C2C27B0022FC18CD00238969 /* IsUglyNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsUglyNumber.h; sourceTree = "<group>"; };
+		C2C27B0122FC18CD00238969 /* IsUglyNumber.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsUglyNumber.c; sourceTree = "<group>"; };
+		C2C27B0322FC196B00238969 /* MissingNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MissingNumber.h; sourceTree = "<group>"; };
+		C2C27B0422FC196B00238969 /* MissingNumber.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MissingNumber.c; sourceTree = "<group>"; };
+		C2C27B0622FC1A0B00238969 /* FirstBadVersion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstBadVersion.h; sourceTree = "<group>"; };
+		C2C27B0722FC1A0B00238969 /* FirstBadVersion.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = FirstBadVersion.c; sourceTree = "<group>"; };
+		C2C27B0922FC1A8500238969 /* MoveZeroes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MoveZeroes.h; sourceTree = "<group>"; };
+		C2C27B0A22FC1A8500238969 /* MoveZeroes.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MoveZeroes.c; sourceTree = "<group>"; };
+		C2C27B0C22FC1AF300238969 /* WordPattern.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WordPattern.h; sourceTree = "<group>"; };
+		C2C27B0D22FC1AF300238969 /* WordPattern.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = WordPattern.c; sourceTree = "<group>"; };
+		C2C27B0F22FC1B6600238969 /* CanWinNim.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CanWinNim.h; sourceTree = "<group>"; };
+		C2C27B1022FC1B6600238969 /* CanWinNim.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = CanWinNim.c; sourceTree = "<group>"; };
+		C2C27B1222FC1BEC00238969 /* NumArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NumArray.h; sourceTree = "<group>"; };
+		C2C27B1322FC1BEC00238969 /* NumArray.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = NumArray.c; sourceTree = "<group>"; };
+		C2C27B1522FC1C6200238969 /* IsPowerOfThree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsPowerOfThree.h; sourceTree = "<group>"; };
+		C2C27B1622FC1C6200238969 /* IsPowerOfThree.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsPowerOfThree.c; sourceTree = "<group>"; };
+		C2C27B1822FC1CCA00238969 /* IsPowerOfFour.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsPowerOfFour.h; sourceTree = "<group>"; };
+		C2C27B1922FC1CCA00238969 /* IsPowerOfFour.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsPowerOfFour.c; sourceTree = "<group>"; };
+		C2C27B1B22FC1D3C00238969 /* ReverseString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReverseString.h; sourceTree = "<group>"; };
+		C2C27B1C22FC1D3C00238969 /* ReverseString.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ReverseString.c; sourceTree = "<group>"; };
+		C2C27B1E22FC1DB400238969 /* ReverseVowels.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReverseVowels.h; sourceTree = "<group>"; };
+		C2C27B1F22FC1DB400238969 /* ReverseVowels.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ReverseVowels.c; sourceTree = "<group>"; };
+		C2C27B2122FC1E1D00238969 /* Intersection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Intersection.h; sourceTree = "<group>"; };
+		C2C27B2222FC1E1D00238969 /* Intersection.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Intersection.c; sourceTree = "<group>"; };
+		C2C27B2422FC1E2D00238969 /* IntersectionII.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntersectionII.h; sourceTree = "<group>"; };
+		C2C27B2522FC1E2D00238969 /* IntersectionII.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IntersectionII.c; sourceTree = "<group>"; };
+		C2C27B2722FC1EE600238969 /* IsPerfectSquare.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsPerfectSquare.h; sourceTree = "<group>"; };
+		C2C27B2822FC1EE600238969 /* IsPerfectSquare.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = IsPerfectSquare.c; sourceTree = "<group>"; };
+		C2C27B2A22FC1F5400238969 /* GetSum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GetSum.h; sourceTree = "<group>"; };
+		C2C27B2B22FC1F5400238969 /* GetSum.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = GetSum.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -293,6 +395,74 @@
 				C256DEAE22F98C9000C3D37F /* TrailingZeroes.c */,
 				C256DEB022F98D5C00C3D37F /* RotateArray.h */,
 				C256DEB122F98D5C00C3D37F /* RotateArray.c */,
+				C2C27AC722FA68B200238969 /* ReverseBits.h */,
+				C2C27AC822FA68B200238969 /* ReverseBits.c */,
+				C2C27ACA22FA6AEC00238969 /* HammingWeight.h */,
+				C2C27ACB22FA6AEC00238969 /* HammingWeight.c */,
+				C2C27ACD22FA6C0800238969 /* IsHappyNumber.h */,
+				C2C27ACE22FA6C0800238969 /* IsHappyNumber.c */,
+				C2C27AD022FA6DE100238969 /* RemoveListNodeElements.h */,
+				C2C27AD122FA6DE100238969 /* RemoveListNodeElements.c */,
+				C2C27AD322FA8B2F00238969 /* CountPrimes.h */,
+				C2C27AD422FA8B2F00238969 /* CountPrimes.c */,
+				C2C27AD622FA8BDF00238969 /* IsIsomorphicString.h */,
+				C2C27AD722FA8BDF00238969 /* IsIsomorphicString.c */,
+				C2C27AD922FA8CC700238969 /* ReverseListNode.h */,
+				C2C27ADA22FA8CC700238969 /* ReverseListNode.c */,
+				C2C27ADC22FAA6E500238969 /* ContainsDuplicate.h */,
+				C2C27ADD22FAA6E500238969 /* ContainsDuplicate.c */,
+				C2C27ADF22FAA76900238969 /* ContainsDuplicateII.h */,
+				C2C27AE022FAA76900238969 /* ContainsDuplicateII.c */,
+				C2C27AE222FBC23A00238969 /* MyStackWithQueue.h */,
+				C2C27AE322FBC23A00238969 /* MyStackWithQueue.c */,
+				C2C27AE522FBC40600238969 /* InvertTree.h */,
+				C2C27AE622FBC40600238969 /* InvertTree.c */,
+				C2C27AE822FBC85900238969 /* IsPowerOfTwo.h */,
+				C2C27AE922FBC85900238969 /* IsPowerOfTwo.c */,
+				C2C27AEB22FBCF5400238969 /* MyQueueWithStack.h */,
+				C2C27AEC22FBCF5400238969 /* MyQueueWithStack.c */,
+				C2C27AEE22FC066D00238969 /* IsPalindromeListNode.h */,
+				C2C27AEF22FC066D00238969 /* IsPalindromeListNode.c */,
+				C2C27AF122FC070F00238969 /* LowestCommonAncestor.h */,
+				C2C27AF222FC070F00238969 /* LowestCommonAncestor.c */,
+				C2C27AF422FC0FB000238969 /* DeleteNode.h */,
+				C2C27AF522FC0FB000238969 /* DeleteNode.c */,
+				C2C27AF722FC126000238969 /* IsAnagram.h */,
+				C2C27AF822FC126000238969 /* IsAnagram.c */,
+				C2C27AFA22FC130100238969 /* BinaryTreePaths.h */,
+				C2C27AFB22FC130100238969 /* BinaryTreePaths.c */,
+				C2C27AFD22FC13C600238969 /* AddDigits.h */,
+				C2C27AFE22FC13C600238969 /* AddDigits.c */,
+				C2C27B0022FC18CD00238969 /* IsUglyNumber.h */,
+				C2C27B0122FC18CD00238969 /* IsUglyNumber.c */,
+				C2C27B0322FC196B00238969 /* MissingNumber.h */,
+				C2C27B0422FC196B00238969 /* MissingNumber.c */,
+				C2C27B0622FC1A0B00238969 /* FirstBadVersion.h */,
+				C2C27B0722FC1A0B00238969 /* FirstBadVersion.c */,
+				C2C27B0922FC1A8500238969 /* MoveZeroes.h */,
+				C2C27B0A22FC1A8500238969 /* MoveZeroes.c */,
+				C2C27B0C22FC1AF300238969 /* WordPattern.h */,
+				C2C27B0D22FC1AF300238969 /* WordPattern.c */,
+				C2C27B0F22FC1B6600238969 /* CanWinNim.h */,
+				C2C27B1022FC1B6600238969 /* CanWinNim.c */,
+				C2C27B1222FC1BEC00238969 /* NumArray.h */,
+				C2C27B1322FC1BEC00238969 /* NumArray.c */,
+				C2C27B1522FC1C6200238969 /* IsPowerOfThree.h */,
+				C2C27B1622FC1C6200238969 /* IsPowerOfThree.c */,
+				C2C27B1822FC1CCA00238969 /* IsPowerOfFour.h */,
+				C2C27B1922FC1CCA00238969 /* IsPowerOfFour.c */,
+				C2C27B1B22FC1D3C00238969 /* ReverseString.h */,
+				C2C27B1C22FC1D3C00238969 /* ReverseString.c */,
+				C2C27B1E22FC1DB400238969 /* ReverseVowels.h */,
+				C2C27B1F22FC1DB400238969 /* ReverseVowels.c */,
+				C2C27B2122FC1E1D00238969 /* Intersection.h */,
+				C2C27B2222FC1E1D00238969 /* Intersection.c */,
+				C2C27B2422FC1E2D00238969 /* IntersectionII.h */,
+				C2C27B2522FC1E2D00238969 /* IntersectionII.c */,
+				C2C27B2722FC1EE600238969 /* IsPerfectSquare.h */,
+				C2C27B2822FC1EE600238969 /* IsPerfectSquare.c */,
+				C2C27B2A22FC1F5400238969 /* GetSum.h */,
+				C2C27B2B22FC1F5400238969 /* GetSum.c */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -383,46 +553,80 @@
 				07B09824221BDF6900337F89 /* PalindromeNumber.c in Sources */,
 				C256DEA622F98B1A00C3D37F /* ConvertToTitle.c in Sources */,
 				C256DE5D22F97A7100C3D37F /* PlusOne.c in Sources */,
+				C2C27B0822FC1A0B00238969 /* FirstBadVersion.c in Sources */,
+				C2C27AD222FA6DE100238969 /* RemoveListNodeElements.c in Sources */,
+				C2C27AF322FC070F00238969 /* LowestCommonAncestor.c in Sources */,
 				C256DE6C22F97EE800C3D37F /* MergeTwoSortedArray.c in Sources */,
 				C256DE7522F9809E00C3D37F /* MaxDepth.c in Sources */,
 				07B09827221BE79B00337F89 /* RomanToInteger.c in Sources */,
+				C2C27AFF22FC13C600238969 /* AddDigits.c in Sources */,
+				C2C27AEA22FBC85900238969 /* IsPowerOfTwo.c in Sources */,
+				C2C27ACF22FA6C0800238969 /* IsHappyNumber.c in Sources */,
+				C2C27AD522FA8B2F00238969 /* CountPrimes.c in Sources */,
 				C256DE4822F9769000C3D37F /* RemoveElement.c in Sources */,
+				C2C27AF622FC0FB000238969 /* DeleteNode.c in Sources */,
+				C2C27B0B22FC1A8500238969 /* MoveZeroes.c in Sources */,
 				C256DEB222F98D5C00C3D37F /* RotateArray.c in Sources */,
+				C2C27AFC22FC130100238969 /* BinaryTreePaths.c in Sources */,
 				C256DE6022F97ACD00C3D37F /* AddBinary.c in Sources */,
 				07C02DC1221FDD7200E93B82 /* MergeTwoSortedLists.c in Sources */,
 				C256DE8E22F986C300C3D37F /* MaxProfit.c in Sources */,
 				07B09812221BA93400337F89 /* TwoSum.c in Sources */,
 				C256DE6622F97D9600C3D37F /* ClimbStairs.c in Sources */,
 				C256DEA322F98A9700C3D37F /* TwoSumII.c in Sources */,
+				C2C27ACC22FA6AEC00238969 /* HammingWeight.c in Sources */,
 				C256DEA022F98A1E00C3D37F /* GetIntersectionNode.c in Sources */,
 				C256DE9A22F988DE00C3D37F /* HasCycle.c in Sources */,
+				C2C27AE722FBC40600238969 /* InvertTree.c in Sources */,
 				C256DE8522F9851500C3D37F /* HasPathSum.c in Sources */,
+				C2C27B2C22FC1F5400238969 /* GetSum.c in Sources */,
+				C2C27AE122FAA76900238969 /* ContainsDuplicateII.c in Sources */,
+				C2C27AF922FC126000238969 /* IsAnagram.c in Sources */,
+				C2C27B1A22FC1CCA00238969 /* IsPowerOfFour.c in Sources */,
 				07B09821221BD0DA00337F89 /* Reverse-Integer.c in Sources */,
+				C2C27B2322FC1E1D00238969 /* Intersection.c in Sources */,
+				C2C27AED22FBCF5400238969 /* MyQueueWithStack.c in Sources */,
+				C2C27B1D22FC1D3C00238969 /* ReverseString.c in Sources */,
 				C256DE7922F981BA00C3D37F /* LevelOrderBottomII.c in Sources */,
+				C2C27B1422FC1BEC00238969 /* NumArray.c in Sources */,
 				C256DE9422F987AC00C3D37F /* IsPalindromeString.c in Sources */,
 				C256DE5722F9796200C3D37F /* MaxSubArray.c in Sources */,
+				C2C27AC922FA68B200238969 /* ReverseBits.c in Sources */,
 				C256DE9122F9874200C3D37F /* MaxProfitII.c in Sources */,
+				C2C27AE422FBC23A00238969 /* MyStackWithQueue.c in Sources */,
 				07B0982A221BEC9200337F89 /* LongestCommonPrefix.c in Sources */,
 				C256DE7F22F982B700C3D37F /* IsBalanced.c in Sources */,
 				07C02DBE221FD83800E93B82 /* ValidParentheses.c in Sources */,
 				C256DE8822F985C700C3D37F /* PascalTriangle.c in Sources */,
+				C2C27ADE22FAA6E500238969 /* ContainsDuplicate.c in Sources */,
 				C256DE6322F97B3500C3D37F /* MySqrt.c in Sources */,
 				C256DE8222F9849E00C3D37F /* MinDepth.c in Sources */,
+				C2C27B0522FC196B00238969 /* MissingNumber.c in Sources */,
 				C256DE4522F975D100C3D37F /* RemoveDuplicates.c in Sources */,
+				C2C27AD822FA8BDF00238969 /* IsIsomorphicString.c in Sources */,
+				C2C27ADB22FA8CC700238969 /* ReverseListNode.c in Sources */,
 				C256DE5A22F979F100C3D37F /* LengthOfLastWord.c in Sources */,
 				C256DE6F22F97F8E00C3D37F /* IsSameTree.c in Sources */,
 				C256DEAF22F98C9000C3D37F /* TrailingZeroes.c in Sources */,
+				C2C27B1722FC1C6200238969 /* IsPowerOfThree.c in Sources */,
 				07B0981D221BCF9100337F89 /* Manager.c in Sources */,
 				C256DE4E22F9782300C3D37F /* SearchInsert.c in Sources */,
+				C2C27B0222FC18CD00238969 /* IsUglyNumber.c in Sources */,
 				C256DEA922F98B8700C3D37F /* MajorityElement.c in Sources */,
 				C256DE5122F9787900C3D37F /* CountAndSay.c in Sources */,
+				C2C27B2622FC1E2D00238969 /* IntersectionII.c in Sources */,
 				C256DE9D22F9897500C3D37F /* MinStack.c in Sources */,
+				C2C27B2022FC1DB400238969 /* ReverseVowels.c in Sources */,
+				C2C27B0E22FC1AF300238969 /* WordPattern.c in Sources */,
+				C2C27AF022FC066D00238969 /* IsPalindromeListNode.c in Sources */,
 				07B09807221BA88200337F89 /* main.c in Sources */,
 				C256DE7C22F9822C00C3D37F /* SortedArrayToBST.c in Sources */,
 				C256DE4B22F9779D00C3D37F /* StrStr.c in Sources */,
 				C256DEAC22F98BF800C3D37F /* TitleToNumber.c in Sources */,
+				C2C27B1122FC1B6600238969 /* CanWinNim.c in Sources */,
 				C256DE7222F97FFE00C3D37F /* IsSymmetric.c in Sources */,
 				C256DE9722F9886E00C3D37F /* SingleNumber.c in Sources */,
+				C2C27B2922FC1EE600238969 /* IsPerfectSquare.c in Sources */,
 				C256DE8B22F9863E00C3D37F /* PascalTriangleII.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
